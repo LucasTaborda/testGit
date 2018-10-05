@@ -1,4 +1,4 @@
-function test()
+function test(a)
 {
-	console.log("prueba");
+	console.log(a);
 }
